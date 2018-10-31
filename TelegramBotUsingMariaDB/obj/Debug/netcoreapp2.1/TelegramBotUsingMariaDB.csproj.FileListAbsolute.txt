@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\TelegramBotUsingMariaDB\TelegramBotUsingMariaDB\bin\Debug\netcoreapp2.1\TelegramBotUsingMariaDB.deps.json
+C:\Users\admin\source\repos\TelegramBotUsingMariaDB\TelegramBotUsingMariaDB\bin\Debug\netcoreapp2.1\TelegramBotUsingMariaDB.runtimeconfig.json
+C:\Users\admin\source\repos\TelegramBotUsingMariaDB\TelegramBotUsingMariaDB\bin\Debug\netcoreapp2.1\TelegramBotUsingMariaDB.runtimeconfig.dev.json
+C:\Users\admin\source\repos\TelegramBotUsingMariaDB\TelegramBotUsingMariaDB\bin\Debug\netcoreapp2.1\TelegramBotUsingMariaDB.dll
+C:\Users\admin\source\repos\TelegramBotUsingMariaDB\TelegramBotUsingMariaDB\obj\Debug\netcoreapp2.1\TelegramBotUsingMariaDB.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\TelegramBotUsingMariaDB\TelegramBotUsingMariaDB\obj\Debug\netcoreapp2.1\TelegramBotUsingMariaDB.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TelegramBotUsingMariaDB\TelegramBotUsingMariaDB\obj\Debug\netcoreapp2.1\TelegramBotUsingMariaDB.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\TelegramBotUsingMariaDB\TelegramBotUsingMariaDB\obj\Debug\netcoreapp2.1\TelegramBotUsingMariaDB.AssemblyInfo.cs
+C:\Users\admin\source\repos\TelegramBotUsingMariaDB\TelegramBotUsingMariaDB\bin\Debug\netcoreapp2.1\TelegramBotUsingMariaDB.pdb
+C:\Users\admin\source\repos\TelegramBotUsingMariaDB\TelegramBotUsingMariaDB\obj\Debug\netcoreapp2.1\TelegramBotUsingMariaDB.dll
+C:\Users\admin\source\repos\TelegramBotUsingMariaDB\TelegramBotUsingMariaDB\obj\Debug\netcoreapp2.1\TelegramBotUsingMariaDB.pdb
